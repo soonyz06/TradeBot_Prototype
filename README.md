@@ -26,7 +26,7 @@ EURUSD
 USDJPY
 ![example](im/example6.png)   
 
-# Value ~ Martingale (intrinsic value from [DCF](RBLX.xlsx), etc)  
+# Value + Martingale (intrinsic value from [DCF](RBLX.xlsx))  
 RBLX
 ![example](im/example4.png)    
 
@@ -36,7 +36,7 @@ AAPL
 EURUSD
 ![example](im/abc.png)
 
-# Momentum ~ Breakouts  
+# Momentum   
 USDJPY
 ![example](im/example7.png)  
 JNJ
