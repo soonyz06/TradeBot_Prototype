@@ -5,7 +5,7 @@ Reasons don't work:
 - Patterns not persistent and pervasive, regime changes, etc
 - Backtests don't accurately enough represent live conditions (slippage, fees)
 - Trading CFDs is just a bad idea (insane leverage, overnight spread, transaction costs, etc)
-- Overfitted and not robust despite attempts at (train, val, test split), (optimised/trained using a small number of combinations of params (num of params and size of step)), live testing, walk-forward testing, etc
+- Overfitted and not robust despite attempts at out of sample testing and parsimonious parametrisation
 - Past performance is not a predictor of future results or smth like that
 
 Example of Overfitting
