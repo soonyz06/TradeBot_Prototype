@@ -6,7 +6,7 @@ Reasons don't work:
 - Backtests don't accurately enough represent live conditions (slippage, fees)
 - Trading CFDs is just a bad idea (insane leverage, overnight spread, transaction costs, etc)
 - Overfitted and not robust despite attempts at out of sample testing and parsimonious parametrisation
-- Argument could be made for heavy paramterisation where the increase in estimation accuracy and learning potential is worth the statistical cost assuming appropriate shrinkage (Bias vs Variance trade off)
+- Argument could be made for heavy paramterisation where the increase in estimation accuracy and learning potential is worth the statistical cost assuming appropriate shrinkage (The Virtue of Complexity paper)
 
 Example of Overfitting
 ![overfit](im/a.PNG)
