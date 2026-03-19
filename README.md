@@ -12,7 +12,7 @@ Example of Overfitting
 ![overfit](im/a.PNG)
 
 # Example 
-Backtest (20 yrs)
+Backtest 
 ![example](im/1.png)
 Param Optimisation -> Train + Sensitivity
 ![opt](im/opt.png)
