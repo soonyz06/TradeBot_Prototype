@@ -31,15 +31,11 @@ RBLX
 ![example](im/example4.png)    
 
 # Mean Reversion  
-AAPL
 ![example](im/2.png)
-EURUSD
 ![example](im/3.png)
 
 # Momentum   
-USDJPY
 ![example](im/4.png)  
-JNJ
 ![example](im/5.png)
 
 
